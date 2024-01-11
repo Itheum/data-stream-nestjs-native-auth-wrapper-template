@@ -38,6 +38,7 @@
     "@apollo/client": "^3.8.8",
     "@itheum/sdk-mx-data-nft": "2.2.0",
     "@multiversx/sdk-core": "12.9.0",
+    "@multiversx/sdk-native-auth-server": "^1.0.11",
     "@multiversx/sdk-nestjs-auth": "1.2.8",
     "@multiversx/sdk-nestjs-cache": "1.2.8",
     "@multiversx/sdk-nestjs-common": "1.2.8",

@@ -39,3 +39,7 @@ You should then see the swagger portal on http://localhost:3000/, where you can 
 
 > [!IMPORTANT]  
 > In order to test the NativeAuth guarded endpoints, you need to "whitelist" in the `acceptedOrigins` section of the `config.devnet.yaml` file, the origin from which you are generating the requests.
+
+## Disclaimer
+
+This open-source SOFTWARE PRODUCT is provided by THE PROVIDER "as is" and "with all faults." THE PROVIDER makes no representations or warranties of any kind concerning the safety, suitability, lack of viruses, inaccuracies, typographical errors, or other harmful components of this SOFTWARE PRODUCT. There are inherent dangers in the use of any software, and you are solely responsible for determining whether this SOFTWARE PRODUCT is compatible for your needs. You are also solely responsible for the protection of your equipment, your private credentials (e.g AWS account Key and Secret, GitHub access credentials etc.) and backup of your data, and THE PROVIDER will not be liable for any damages you may suffer in connection with using, modifying, or distributing this SOFTWARE PRODUCT.
